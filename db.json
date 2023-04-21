@@ -1,0 +1,212 @@
+{
+  "applicants": [
+    {
+      "id": 1,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 2,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 3,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 4,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 5,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 6,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 7,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    },
+    {
+      "id": 8,
+      "policyId": "DC03",
+      "applicationNo": 24027,
+      "lifeInsured": "Kriti Gupta",
+      "policyOwner": "Kriti Gupta",
+      "sa": 1000000,
+      "status": "UW",
+      "date": "12-30-2021",
+      "prdType": "Life Protect"
+    }
+  ],
+
+  "leads": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 4,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 5,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 6,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 7,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 8,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    },
+    {
+      "id": 9,
+      "name": "John Smith",
+      "lifeAssuredName": "John Smith",
+      "product": "Corona Kavach",
+      "email": "johnsmith@gmail.com",
+      "contact": "(91)9057672243",
+      "leadStage": "Contacted",
+      "status": "UW Process",
+      "address": "153/3, Los Angeles, US",
+      "submissionDate": "20/04/2021",
+      "daysSinceLastContacted": "2 days ago"
+    }
+  ]
+}
