@@ -1,0 +1,42 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -20px;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-list {
+  border: none;
+  padding: 0.2rem 0rem 0.2rem 0rem;
+  font-size: small;
+  color: #2a3439;
+  font-weight: 500;
+}
+
+.header-part > h6 {
+  font-weight: bold;
+  color: rgba(60, 70, 88, 255);
+  font-size: 15px;
+}
+
+.m-8 {
+  margin: 0.8rem 0rem;
+}
+
+.progress-bars {
+  width: 30%;
+}
+
+li {
+  border: none !important;
+}
+
+.progress {
+  height: 0.5rem !important;
+  width: 100% !important;
+}

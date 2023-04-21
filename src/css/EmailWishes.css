@@ -1,0 +1,83 @@
+.input-mail-content {
+  border-radius: 8px;
+  width: 100%;
+  margin: 0.3rem 0;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.5rem;
+  font-weight: bold;
+  padding: 0.2rem 0.5rem;
+  font-size: 13px;
+}
+
+.email-content {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.email-content > h6 {
+  font-weight: normal;
+  color: rgb(128, 128, 128);
+  display: inline-block;
+}
+
+textarea {
+  border-radius: 7px;
+  padding: 5px;
+}
+
+.modal-header,
+.modal-body {
+  margin: 0 20px !important;
+}
+
+.email-content {
+  padding: 0 20px;
+}
+
+.modal-footer {
+  border-top: none !important;
+}
+
+.modal-header {
+  border-bottom: none !important;
+  padding: 1rem 1rem 0rem 1rem !important;
+}
+
+.discard-btn {
+  color: rgba(0, 59, 126, 255);
+  background-color: white;
+  font-weight: bold;
+  font-size: 12px;
+  border-radius: 18px;
+}
+
+.send-btn {
+  font-weight: bold;
+  font-size: 12px;
+  border-radius: 18px;
+}
+
+#wish-alert {
+  padding: 30px 150px;
+  padding-right: 290px;
+  left: 150px;
+  position: fixed;
+  background-color: white;
+  border: none;
+  -webkit-box-shadow: 0 0 8px #222;
+  box-shadow: 0 0 8px #222;
+  bottom: 40px;
+}
+
+#okay-thanks-btn {
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  padding: 5px 10px;
+  background: linear-gradient(
+    to right,
+    rgba(10, 158, 205, 255),
+    rgba(55, 204, 251, 255)
+  );
+}

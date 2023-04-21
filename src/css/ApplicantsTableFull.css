@@ -1,0 +1,15 @@
+#total-applications-title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.total-applications-container {
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 8.5rem;
+  gap: 2.5rem;
+  width: fit-content;
+  margin-bottom: 3rem;
+}

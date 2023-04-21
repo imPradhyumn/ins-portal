@@ -1,0 +1,29 @@
+thead,
+tbody {
+  display: block;
+}
+
+.tbody {
+  overflow-y: scroll;
+  border-radius: 12px;
+}
+
+.tbody::-webkit-scrollbar {
+  display: none;
+}
+
+th {
+  width: 150px;
+  color: rgba(46, 71, 101, 255);
+  text-align: left;
+
+  padding: 7px 16px;
+}
+
+td {
+  width: 150px;
+  padding: 10px 14px;
+  color: #52515a;
+  font-weight: normal;
+  text-align: left;
+}

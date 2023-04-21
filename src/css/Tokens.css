@@ -1,0 +1,72 @@
+.cards-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.token-card {
+  border-radius: 15px;
+  padding-right: 10px;
+  width: fit-content;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.cards {
+  width: 92%;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+#card-scroller {
+  height: fit-content;
+  padding-bottom: 0.05rem;
+}
+
+.card-title {
+  color: blue;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-top: -10px;
+}
+
+.card-text {
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+.scroll-btn-container {
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+}
+
+#forward-slider,
+#backward-slider {
+  border-radius: 50%;
+  width: 34px;
+
+  height: 34px;
+  font-weight: 500;
+  background-color: #fff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  color: rgba(27, 171, 219, 255);
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#forward-slider {
+  margin-left: 1.5rem;
+}
+
+#backward-slider {
+  margin-right: 1.5rem;
+}

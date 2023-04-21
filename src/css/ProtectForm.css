@@ -1,0 +1,277 @@
+/* #protect-form-header {
+} */
+
+.protect-form-container {
+  margin-left: 8.5rem;
+  margin-top: 2.5rem;
+  width: 60rem;
+  margin-bottom: 120px;
+}
+
+.row-specific {
+  margin-top: 1.3rem;
+  width: 100%;
+}
+
+#protect-form-header {
+  font-weight: bold;
+}
+
+.form-control {
+  border-radius: 12px !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: 0px;
+  font-weight: bold;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  outline: none !important;
+  border: 2px solid rgba(27, 171, 219, 255) !important;
+}
+
+.form-check-label {
+  margin-right: 5rem;
+}
+
+#smoke-btn > input,
+#alcohol-btn > input {
+  visibility: hidden;
+}
+
+.btn-specific {
+  border: 1px solid grey;
+  color: grey;
+  margin: 0.4rem 0.5rem 0 0;
+  padding: 0.5rem 1rem !important;
+}
+
+.btn-specific:hover,
+.btn-focused {
+  background-color: rgba(27, 171, 219, 255) !important;
+  border: 1px solid rgba(27, 171, 219, 255);
+  color: white;
+}
+
+/* Progress Bar */
+.progress-tracker {
+  background-color: rgba(46, 71, 101, 255);
+  height: 90px;
+  border-radius: 12px;
+  margin-top: 2.7rem;
+  display: flex;
+  align-items: center;
+  padding: 0 3.9rem;
+  margin-bottom: 0rem;
+}
+
+#progress-details-container {
+  position: relative;
+  bottom: 56px;
+}
+
+#progress-step-number,
+#progress-step-name {
+  display: flex;
+  color: white;
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+#progress-step-name {
+  width: 96%;
+}
+
+#progress-step-number > h6 {
+  background-color: #008bff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+}
+
+/* Personal Details */
+
+#address-input {
+  height: 10rem;
+}
+
+/* Dependents Cards Section */
+.dependents-cards {
+  margin-top: 10px;
+  display: inline-block;
+  width: fit-content;
+}
+
+.dependent-card {
+  padding: 1.3rem 0.7rem;
+  display: inline-block !important;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.dependent-label-name {
+  display: inline-block;
+  margin-right: 35px;
+}
+
+#add-dependent-btn {
+  margin-left: 90px;
+  border: 2px solid rgba(53, 64, 82, 255);
+  padding: 0.3rem 1.5rem;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 20px;
+}
+
+/* Income Details */
+
+.income-details-form {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  gap: 2rem;
+  font-weight: bold;
+}
+
+.income-details-form > div > input {
+  margin-top: 6px;
+}
+
+/* Documents Page */
+
+.proof-documents-label {
+  color: grey;
+  display: block;
+}
+
+/* Footer */
+
+.protect-form-footer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  -webkit-box-shadow: 0px -2px 3px #222;
+  -moz-box-shadow: 0px -2px 3px #222;
+  box-shadow: 2px -2px 5px rgb(211, 207, 207);
+  width: 95%;
+  height: 50px;
+  position: fixed;
+  bottom: 0px;
+  background-color: white;
+  right: 0px;
+  padding: 2rem 0;
+  margin-bottom: 0px;
+}
+
+#form-back-btn {
+  float: left;
+  color: rgba(128, 128, 128, 0.9);
+  font-weight: bold;
+  margin-left: 3rem;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  border-radius: 20px;
+  padding: 0.2rem 1rem;
+  background-color: rgba(128, 128, 128, 0.2);
+}
+
+#form-next-btn,
+#form-payment-btn {
+  float: right;
+  padding: 0.2rem 1rem;
+  font-weight: bold;
+  border-radius: 20px;
+  margin-right: 10rem;
+  color: white;
+  background: linear-gradient(
+    to right,
+    rgba(10, 158, 205, 255),
+    rgba(55, 204, 251, 255)
+  );
+}
+
+.Neon-input-dragDrop {
+  display: block;
+  width: 343px;
+  margin: 15px 0;
+  padding: 25px;
+  color: #8d9499;
+  color: #97a1a8;
+  background: #fff;
+  border: 2px dashed #008bff;
+  text-align: center;
+  -webkit-transition: box-shadow 0.3s, border-color 0.3s;
+  -moz-transition: box-shadow 0.3s, border-color 0.3s;
+  transition: box-shadow 0.3s, border-color 0.3s;
+}
+
+.filer_input {
+  z-index: 999;
+  opacity: 0;
+  width: 320px;
+  height: 200px;
+  border: 1px solid red;
+  cursor: pointer;
+  position: absolute;
+}
+
+.upload-image-logo {
+  padding: 10px;
+  font-size: 5rem;
+  color: #008bff;
+  cursor: pointer;
+}
+
+.upload-image-btn {
+  display: inline-block;
+  white-space: nowrap;
+  border-radius: 3px;
+  vertical-align: middle;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.upload-text {
+  color: rgba(0, 59, 126, 255);
+}
+
+/* Quotation Page */
+
+#quotation-showcase {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  justify-content: space-evenly;
+}
+
+.details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: fit-content;
+}
+
+.details-left-section,
+.details-right-section,
+.details-mid-section {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 2rem;
+  gap: 2rem;
+  justify-content: flex-start;
+}
+
+#applicant-details > .details-right-section,
+.details-mid-section {
+  padding-top: 4.8rem;
+}
+
+.title-key {
+  color: grey;
+  font-size: 15px;
+  margin-bottom: 0.1rem;
+}

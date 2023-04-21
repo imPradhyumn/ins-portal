@@ -1,0 +1,35 @@
+nav {
+  -webkit-box-shadow: 0 4px 6px -6px #222;
+  -moz-box-shadow: 0 4px 6px -6px #222;
+  box-shadow: 0 6px 6px -6px #222;
+}
+
+.nav-flex-box {
+  display: flex;
+  direction: row;
+  justify-content: space-between;
+}
+
+.nav-logos {
+  margin-left: 15px;
+}
+
+#portal-name {
+  color: rgba(0, 59, 126, 255);
+  font-weight: bold;
+}
+
+.search-icon {
+  float: left;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  border: 2px solid rgba(34, 173, 219, 255);
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  margin-right: 45px;
+}

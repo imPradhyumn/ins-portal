@@ -1,0 +1,50 @@
+.event-header-part {
+  padding: 1rem 1rem 0.5rem 1rem;
+}
+
+#event-logo {
+  float: right;
+  border-radius: 12px;
+  border: none;
+  background-color: rgba(244, 244, 244, 255);
+  padding: 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.event-header-part > h6 {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.event-item-container {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.event-profile-pic {
+  width: 1.5rem;
+  object-fit: contain;
+}
+
+.send-wishes-btn {
+  border: 1px solid black;
+  border-radius: 19px;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.7rem;
+  background-color: rgba(241, 247, 250, 255);
+}
+
+.btn:focus,
+.btn:active {
+  box-shadow: none !important;
+  outline: 0px !important;
+}

@@ -1,0 +1,44 @@
+.new-leads-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 8.5rem;
+  height: 38rem;
+  width: fit-content;
+}
+
+#back-btn {
+  font-weight: bold;
+  border: none;
+  padding: 0px;
+  margin: -0.4rem 1rem 0 0;
+  font-size: 23px;
+}
+
+#new-leads-title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.applicants-table-full {
+  padding: 0;
+  width: fit-content;
+}
+
+#add-new-lead-btn {
+  float: right;
+
+  background: linear-gradient(
+    to right,
+    rgba(10, 158, 205, 255),
+    rgba(55, 204, 251, 255)
+  );
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+#mail-btn:hover {
+  background-color: #fff !important;
+  color: #0dcaf0;
+}

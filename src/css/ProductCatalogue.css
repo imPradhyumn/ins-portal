@@ -1,0 +1,197 @@
+/* #product-catalogue {
+} */
+
+#product-catalogue-container {
+  padding-top: 50px;
+  padding-left: 6.7rem;
+  height: 250px;
+  background-image: url("../assets/beach.jpg");
+}
+
+#product-catalogue-header > h5 {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+#product-catalogue-label {
+  font-size: 13px;
+  color: white;
+}
+
+/* Search Section */
+
+#search-section {
+  margin: 20px 0;
+}
+
+#search-section > form > div {
+  width: fit-content;
+  padding-left: 10px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+#product-search-box {
+  width: inherit;
+  border-radius: 20px !important;
+}
+
+#product-search-box:focus {
+  outline: none !important;
+  border: none !important;
+}
+
+#search-section > form > button {
+  background: linear-gradient(
+    to right,
+    rgba(10, 158, 205, 255),
+    rgba(55, 204, 251, 255)
+  );
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-left: 12px;
+  font-size: 12px;
+  padding: 0 15px;
+}
+
+/* Catalogue Cards */
+#catalogue-cards-section {
+  display: flex;
+  gap: 1rem;
+}
+
+.catalogue-card {
+  display: inline-block;
+  cursor: pointer;
+  color: rgba(59, 51, 135, 255);
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.catalogue-card:hover {
+  background-color: rgba(27, 171, 219, 255) !important;
+  color: white !important;
+}
+
+/* Insurance Plans */
+
+#insurance-plans-section {
+  margin: 30px 25px 30px 0;
+  margin-bottom: 20px !important;
+}
+
+#benefits-section {
+  border: 1px solid black;
+  padding: 12px;
+  border-radius: 12px;
+}
+
+#insurance-plans-header > button {
+  float: right;
+  border-radius: 20px;
+  border: 2px solid rgba(64, 74, 91, 255);
+  padding: 3px 20px;
+  color: rgba(64, 74, 91, 255);
+  font-weight: bold;
+}
+
+#insurance-plans-header > h5 {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#insurance-plans-label {
+  font-size: 13px;
+}
+
+#plans-card-section {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+
+.card-holder {
+  height: fit-content;
+  width: fit-content;
+}
+
+.card-holder > .card {
+  padding: 2px;
+}
+
+.card-header {
+  border: none;
+  background-color: #eaf6fa;
+}
+
+#card-header-icons {
+  float: right;
+}
+
+.fa-whatsapp {
+  color: white;
+  background-color: rgba(32, 208, 36, 255);
+  padding: 3px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.card-body > p {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  width: 60%;
+}
+
+.insurance-plans-card-btns {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 8px;
+}
+
+.insurance-plans-card-btns > button {
+  border-radius: 20px;
+  padding: 5px 20px;
+  color: rgba(55, 79, 108, 255);
+  font-weight: bold;
+  font-size: 12px;
+}
+
+#get-quote-btn {
+  color: white;
+  background: linear-gradient(
+    to right,
+    rgba(10, 158, 205, 255),
+    rgba(55, 204, 251, 255)
+  );
+}
+
+/* Compare Section */
+
+#compare-section {
+  margin-top: 25px;
+}
+
+.card-name {
+  background-color: #2e4765;
+  color: white;
+  font-weight: bold;
+  padding: 30px 12px;
+  border-top-right-radius: 12px !important;
+  border-top-left-radius: 12px !important;
+}
+
+.card-list-items > li {
+  border: 1px solid rgba(0, 0, 0, 0.125) !important;
+  border-top: none !important;
+}
+
+.card-list-items {
+  border-radius: 12px !important;
+}

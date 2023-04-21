@@ -1,0 +1,106 @@
+#date-picker {
+  float: right;
+  border-radius: 12px;
+  border: none;
+  background-color: rgba(244, 244, 244, 255);
+  padding: 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.header-part {
+  padding: 1rem;
+}
+
+.header-part > h6 {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.day-picker-section {
+  display: inline-block;
+  white-space: nowrap;
+  white-space: nowrap;
+  overflow-x: scroll;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.day-picker-section::-webkit-scrollbar {
+  display: none;
+}
+
+.day-card {
+  background-color: white;
+  border-radius: 12px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 0.5rem;
+}
+
+.day-card:hover {
+  background-color: rgba(27, 171, 219, 255);
+}
+
+.card-body-specific {
+  padding: 0.4rem 0;
+  text-align: center;
+  width: 60px;
+  color: #0f123f;
+}
+
+.card-body-specific:hover {
+  color: white;
+}
+
+.scheduled-items-section {
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.scheduled-item-container {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  margin-top: 0.8rem;
+}
+
+.scheduled-item-container:hover {
+  background-color: #f2f8fb;
+  cursor: pointer;
+}
+
+.scheduled-item-details {
+  width: fit-content;
+  overflow: hidden;
+}
+
+.scheduled-item-title {
+  font-weight: bold;
+  color: #354052;
+  font-size: 13px;
+  margin-bottom: 0.2rem;
+}
+
+#call-btn {
+  background-color: #5e9f02;
+  color: white;
+  font-size: 13px;
+  padding: 5px;
+  height: 2rem;
+  width: 2rem;
+}
+
+#video-call-btn {
+  background-color: rgba(178, 46, 7, 255);
+  color: white;
+  font-size: 13px;
+  margin-left: 0.8rem;
+  padding: 5px;
+  height: 2rem;
+  width: 2rem;
+}

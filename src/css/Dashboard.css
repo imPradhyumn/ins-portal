@@ -1,0 +1,30 @@
+.dashboard-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 6.7rem;
+  gap: 2rem;
+}
+
+#heading {
+  margin: 15px 108px;
+  color: rgba(53, 64, 82, 255);
+}
+
+.mid-board {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  justify-content: space-around;
+  height: 700px;
+}
+
+.right-board {
+  display: flex;
+  margin-right: 3rem;
+  flex-direction: column;
+  width: 23rem !important;
+  height: 650px;
+  gap: 1rem;
+  justify-content: flex-start;
+}
