@@ -106,16 +106,16 @@
     },
     {
       "id": 2,
-      "name": "John Smith",
-      "lifeAssuredName": "John Smith",
+      "name": "John Will",
+      "lifeAssuredName": "Maria Will",
       "product": "Corona Kavach",
-      "email": "johnsmith@gmail.com",
-      "contact": "(91)9057672243",
+      "email": "john-will@gmail.com",
+      "contact": "(91)9034672243",
       "leadStage": "Contacted",
       "status": "UW Process",
-      "address": "153/3, Los Angeles, US",
-      "submissionDate": "20/04/2021",
-      "daysSinceLastContacted": "2 days ago"
+      "address": "A-15/3, Frankfurt, Germany",
+      "submissionDate": "29/04/2021",
+      "daysSinceLastContacted": "5 days ago"
     },
     {
       "id": 3,
@@ -208,5 +208,10 @@
       "submissionDate": "20/04/2021",
       "daysSinceLastContacted": "2 days ago"
     }
-  ]
+  ],
+
+  "insurancePLans": {
+    "cgProtect": { "price": "$500-$800" },
+    "cgMediclaim": { "price": "$500-$800" }
+  }
 }
