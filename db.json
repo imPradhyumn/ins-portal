@@ -208,10 +208,5 @@
       "submissionDate": "20/04/2021",
       "daysSinceLastContacted": "2 days ago"
     }
-  ],
-
-  "insurancePLans": {
-    "cgProtect": { "price": "$500-$800" },
-    "cgMediclaim": { "price": "$500-$800" }
-  }
+  ]
 }
