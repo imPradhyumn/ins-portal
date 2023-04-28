@@ -213,9 +213,9 @@
   "insurancePLans": {
     "cgProtect": { "price": "$500-$800" },
     "cgMediclaim": { "price": "$500-$800" }
-  }
-  
- "renewals": [
+  },
+
+  "renewals": [
     {
       "id": 1,
       "policyNo": 100123457,
