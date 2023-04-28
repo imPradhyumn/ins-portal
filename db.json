@@ -208,5 +208,171 @@
       "submissionDate": "20/04/2021",
       "daysSinceLastContacted": "2 days ago"
     }
+  ],
+  
+  "renewals": [
+    {
+      "id": 1,
+      "policyNo": 100123457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 2,
+      "policyNo": 100223457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 3,
+      "policyNo": 100143457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 4,
+      "policyNo": 100193457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 5,
+      "policyNo": 100123457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 6,
+      "policyNo": 100123457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 7,
+      "policyNo": 100123357,
+      "prdType": "CG Protect",
+      "validity": "26/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 8,
+      "policyNo": 100123457,
+      "prdType": "CG Protect",
+      "validity": "12/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    },
+    {
+      "id": 9,
+      "policyNo": 100123467,
+      "prdType": "CG Protect",
+      "validity": "21/09/2023",
+      "lastPaid": "Pay Now",
+      "contact": "(91) 9057672456"
+    }
+  ],
+
+  "expired": [
+    {
+      "id": 1,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "insurance": "CG Protect",
+      "contact": "(91) 8954531598",
+      "status": "Expired",
+      "date": "12/08/2023"
+    },
+    {
+      "id": 3,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 4,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 5,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 6,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 7,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 8,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 9,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 10,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    },
+    {
+      "id": 11,
+      "name": "John Will",
+      "insurance": "Corona Kavach",
+      "contact": "(91) 8954231598",
+      "status": "Expired",
+      "date": "12/10/2023"
+    }
   ]
 }
